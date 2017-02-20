@@ -1,0 +1,13 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+0. TODO
+The game accepts dimension between 3x3 and 9x9 include both.
+1. TODO
+To represent the board the game uses 2-dimensional array
+2. TODO
+greet() function is called to greet the user;
+3. TODO
+init(), draw(), move(), won()
