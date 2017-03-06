@@ -1,6 +1,7 @@
 0.  Answers
     GIF---Supports 256 colors
 1.  TODO
+Text.1
 2.  TODO
 3.  TODO
 4.  TODO
